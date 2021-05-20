@@ -4,7 +4,10 @@ repo: status-myworkplace # The name of this repository
 
 sites:
   - name: MyWorkplace
-    url: https://myworkplace.oneadvanced.io
+    url: $SITE_MYWORKPLACE
+  - name: Organisation Discovery
+    url: https://dev.auth.identity.oneadvanced.io/auth/discover
+    icon: https://dev.auth.identity.oneadvanced.io/login/logo.png
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -17,7 +20,7 @@ status-website:
   introMessage: Sample status page for MyWorkplace
   navbar:
     - title: Status
-      href: /
+      href: /status-myworkplace
     - title: Advanced
       href: https://www.oneadvanced.com
 
