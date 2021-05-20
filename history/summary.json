@@ -1,8 +1,8 @@
 [
   {
     "name": "MyWorkplace",
-    "url": "https://myworkplace.oneadvanced.io",
-    "icon": "https://favicons.githubusercontent.com/myworkplace.oneadvanced.io",
+    "url": "$SITE_MYWORKPLACE",
+    "icon": "https://favicons.githubusercontent.com/null",
     "slug": "my-workplace",
     "status": "up",
     "uptime": "100.00%",
@@ -10,11 +10,29 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2367,
-    "timeDay": 2367,
-    "timeWeek": 2367,
-    "timeMonth": 2367,
-    "timeYear": 2367,
+    "time": 1475,
+    "timeDay": 1475,
+    "timeWeek": 1475,
+    "timeMonth": 1475,
+    "timeYear": 1475,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "Organisation Discovery",
+    "url": "https://dev.auth.identity.oneadvanced.io/auth/discover",
+    "icon": "https://dev.auth.identity.oneadvanced.io/login/logo.png",
+    "slug": "organisation-discovery",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1898,
+    "timeDay": 1898,
+    "timeWeek": 1898,
+    "timeMonth": 1898,
+    "timeYear": 1898,
     "dailyMinutesDown": {}
   }
 ]
