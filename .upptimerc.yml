@@ -6,7 +6,7 @@ sites:
   - name: MyWorkplace
     url: $SITE_MYWORKPLACE
   - name: Organisation Discovery
-    url: https://dev.auth.identity.oneadvanced.io/auth/discover
+    url: https://dev.auth.identity.oneadvanced.io/auth/discover?redirectUri=https%3A%2F%2Fmyworkplace.oneadvanced.io%2Fparseauth%3FredirectUri%3Dhttps%253A%252F%252Fmyworkplace.oneadvanced.io%252F
     icon: https://dev.auth.identity.oneadvanced.io/login/logo.png
 
 status-website:
