@@ -1,7 +1,7 @@
 url: https://dev.auth.identity.oneadvanced.io/auth/discover?redirectUri=https%3A%2F%2Fmyworkplace.oneadvanced.io%2Fparseauth%3FredirectUri%3Dhttps%253A%252F%252Fmyworkplace.oneadvanced.io%252F
 status: up
 code: 200
-responseTime: 1455
-lastUpdated: 2022-06-18T23:04:55.916Z
+responseTime: 1468
+lastUpdated: 2022-06-19T23:04:47.153Z
 startTime: Thu May 20 2021 16:13:03 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
