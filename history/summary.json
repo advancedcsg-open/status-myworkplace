@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 589,
-    "timeDay": 592,
-    "timeWeek": 583,
-    "timeMonth": 603,
+    "time": 590,
+    "timeDay": 835,
+    "timeWeek": 619,
+    "timeMonth": 617,
     "timeYear": 590,
     "dailyMinutesDown": {}
   },
@@ -23,21 +23,20 @@
     "icon": "https://dev.auth.identity.oneadvanced.io/login/logo.png",
     "slug": "organisation-discovery",
     "status": "up",
-    "uptime": "95.24%",
+    "uptime": "95.26%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.80%",
+    "uptimeYear": "99.07%",
     "time": 1315,
-    "timeDay": 1628,
-    "timeWeek": 1405,
-    "timeMonth": 1384,
-    "timeYear": 1305,
+    "timeDay": 1383,
+    "timeWeek": 1395,
+    "timeMonth": 1383,
+    "timeYear": 1308,
     "dailyMinutesDown": {
       "2021-06-29": 571,
       "2021-06-28": 1440,
-      "2021-06-27": 1440,
-      "2021-06-26": 1440
+      "2021-06-27": 1440
     }
   }
 ]
